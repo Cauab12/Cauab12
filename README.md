@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-No momento, possuo experiências apenas com (Java), com disposição e muita vontade de aprender novas linguagens e frameworks para expandir meu conhecimento e entregar projetos de qualidade. Acredito que a persistência e a busca contínua por aperfeiçoamento são fundamentais para o meu crescimento profissional e pessoal.
+No momento, possuo experiências com JAVA, HTML e CSS. Com disposição e muita vontade de aprender novas linguagens e frameworks para expandir meu conhecimento e entregar projetos de qualidade. Acredito que a persistência e a busca contínua por aperfeiçoamento são fundamentais para o meu crescimento profissional e pessoal.
 
 
 ---
